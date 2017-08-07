@@ -1,0 +1,17 @@
+{
+  "name": "bobby-framework/acl",
+  "description" : "A PHP Acl ",
+  "version" : "1.0.0",
+  "authors": [
+    {
+      "name": "nicolas wallerand",
+      "email": "nwallerand.ext@orange.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BobbyFramework\\Acl\\": "src/"
+    }
+  }
+}
